@@ -8,7 +8,7 @@ It's anonim chatbot.
 
 ### Setting
 
-Set your token to config.py
+Set your token to config.py and run handlers.py
 
 ### About files
 
